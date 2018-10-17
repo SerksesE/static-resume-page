@@ -1,6 +1,5 @@
 body {
-    font-family: sans-serif;
-    background-color: green; 
+    font-family: sans-serif; 
 }
 
 .social-media-button {
@@ -9,4 +8,11 @@ body {
 
 .footer {
     text-align: center;
+}
+
+div {
+    min-height: 2rem;
+    min-width: 2rem;
+    margin: 2rem;
+    border: 1px solid black;
 }
