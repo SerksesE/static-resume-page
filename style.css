@@ -1,3 +1,12 @@
 body {
-    background-color: green;
+    font-family: sans-serif;
+    background-color: green; 
+}
+
+.social-media-button {
+    height: 2rem;
+}
+
+.footer {
+    text-align: center;
 }
